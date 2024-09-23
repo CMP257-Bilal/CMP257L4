@@ -1,0 +1,70 @@
+body{
+    background-color: #E7F0DC;
+    font-family: 'Times New Roman', Times, serif;
+    size: 10rem;
+}
+footer{
+    background-color: #729762;
+    font-family: fantasy;
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+h2{
+    font-size: x-large;
+}
+form{
+    background-color: #658147;
+    font-size: medium;
+    border: 3px solid black;
+    
+}
+.form_field{
+    border: 3px solid black;
+    
+}
+span{
+    text-decoration-color: #9cada4;
+}
+span:hover{
+    background-color: E7F0DC;
+}
+#btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    width: 6rem;
+    color: #000000;
+    font-size: 20px;
+    background: #deffcb;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  #btn:hover {
+    background: #ff1100;
+    text-decoration: none;
+  }
+
+#btn2 {
+    -webkit-border-radius: 16;
+    -moz-border-radius: 16;
+    border-radius: 16px;
+    width: 10rem;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    background: #24ad29;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  #btn2:hover {
+    background: #0fcc64;
+    text-decoration: none;
+  }
+.padded{
+    padding-top: 10px;
+}
